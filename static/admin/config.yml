@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: thomaswang/gatsby-personal-starter-blog
+  repo: https://github.com/trentindev/esnl_csi_blog.git
 
 media_folder: content/assets
 public_folder: ../assets
